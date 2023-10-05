@@ -1,7 +1,6 @@
-<img width="350" src="/ban.gif" alt="Coding gif" />
-# Hello, I'm <a href="https://vigneswaran.framer.ai/" target="_blank">Vigneswaran</a>!
-<br />
-<br />
+
+<h1>Hello, I'm <a href="https://vigneswaran.framer.ai/">Vigneswaran</a>!</h1>
+
 <br />
 <br />
 <p align="center">
