@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://i.giphy.com/media/AtemeKRsPRVESJ8zRq/giphy360p.mp4">
+<br/>
+<br/>
 
-<!--
-**Vigneswaran321/Vigneswaran321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm <a href="https://vigneswaran.framer.ai/" target="_blank">Vigneswaran</a>!
 
-Here are some ideas to get you started:
+<i class="fi fi-brands-linkedin"></i><a href="https://vigneswaran.framer.ai/" target="_blank"><img align="left" alt="Personal Website" width="22px" /></a>
+<a href="{weblink}" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="" />
+<a href="{weblink}" target="_blank"><img align="left" alt="Twitter" width="22px" src="" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
