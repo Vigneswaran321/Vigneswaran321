@@ -1,4 +1,4 @@
-<img width="350" src="/assets/ban.gif" alt="Coding gif" />
+<img width="350" src="/ban.gif" alt="Coding gif" />
 # Hello, I'm <a href="https://vigneswaran.framer.ai/" target="_blank">Vigneswaran</a>!
 <br />
 <br />
