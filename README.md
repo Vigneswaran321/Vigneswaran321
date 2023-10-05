@@ -4,12 +4,15 @@
 <br/>
 <br/>
 <iframe src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq">via GIPHY</a></p>
-## Hello, I'm <a href="https://vigneswaran.framer.ai/" target="_blank">Vigneswaran</a>!
-
-<i class="fi fi-brands-linkedin"></i><a href="https://vigneswaran.framer.ai/" target="_blank"><img align="left" alt="Personal Website" width="22px" /></a>
-<a href="{weblink}" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://icons8.com/icon/474/online" />
-<a href="{weblink}" target="_blank"><img align="left" alt="Twitter" width="22px" src="" /></a>
-
+# Hello, I'm <a href="https://vigneswaran.framer.ai/" target="_blank">Vigneswaran</a>!
+<br />
+<br />
+<br />
+<br />
+<p align="center">
+<a href="https://vigneswaran.framer.ai/" target="_blank"><img align="left" alt="Personal Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p />
 <br />
 <br />
 <br />
