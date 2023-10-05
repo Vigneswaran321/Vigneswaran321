@@ -1,16 +1,19 @@
 
 <h1>Hello, I'm <a href="https://vigneswaran.framer.ai/">Vigneswaran</a>!</h1>
 
+<img src="/Developer.gif" width="28">  Currently a Professional student who has coding prowess in major fields such as Front-End, Back-End, Full Stack, AI, ML, DS, DL
 <br />
-<br />
+
+Connect with me on <img src="/Handshake.gif" width="60">
 <p align="center">
+
 <a href="https://vigneswaran.framer.ai/" target="_blank"><img align="left" alt="Personal Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <p />
 <br />
 <br />
-<br />
-## Use To Code
+
+<h3>Skills</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
