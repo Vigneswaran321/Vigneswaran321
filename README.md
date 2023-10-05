@@ -3,12 +3,12 @@
 
 <img src="/Developer.gif" width="28">  Currently a Professional student who has coding prowess in major fields such as Front-End, Back-End, Full Stack, AI, ML, DS, DL
 <br />
-
+<img align="right" src="/wink.gif" width="300">
 Connect with me on <img src="/Handshake.gif" width="60">
 <p align="center">
 
 <a href="https://vigneswaran.framer.ai/" target="_blank"><img align="left" alt="Personal Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/creative-vigneswaran/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <p />
 <br />
 <br />
